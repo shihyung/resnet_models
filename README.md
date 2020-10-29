@@ -1,4 +1,4 @@
-# Resnet / Wide_Resnet / Resnext / SE-Resnet
+# Resnet / Wide_Resnet / Resnext / SE-Resnet / MNASnet
 ***
 ##### 之前做的整理
 ### Resnet18 / Resnet34
@@ -27,3 +27,7 @@
 ![images/seresnet_50.png](images/seresnet_50.png)
 ![images/seresnet_101.png](images/seresnet_101.png)
 ![images/seresnet_152.png](images/seresnet_152.png)
+***
+### MNASnet
+![images/mnasnet_blocks.png](images/mnasnet_blocks.png)
+![images/mnasnet.png](images/mnasnet.png)
